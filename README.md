@@ -335,18 +335,6 @@ India-CPI-Inflation-Analysis/
     +-- DAX_Measures.md
 ```
 
-**Never commit API keys, passwords, tokens, or other secrets to GitHub.**
-
-## 18. Resume Description
-
-**India CPI & Inflation Analysis Dashboard | Power BI, Excel, DAX**
-
-> Analyzed 19 months of Government of India CPI and inflation data to identify price-index trends, rural–urban differences, and significant monthly movements. Cleaned and transformed the dataset in Excel, engineered CPI gap and month-over-month metrics, and developed a 3-page Power BI dashboard with DAX-driven KPIs and interactive visualizations. Identified a **6.17% increase in Combined CPI** from Jan-2025 to Jul-2026 and a **0.88 percentage-point rural–urban inflation gap** in Jul-2026.
-
-## 19. Interview Summary
-
-> I worked on a CPI and inflation analysis project using Government of India data. The objective was to understand how consumer prices changed over time and whether rural and urban areas showed different inflation patterns. I cleaned and validated the data in Excel, investigated missing inflation values, and created analytical fields such as the rural–urban CPI gap and month-over-month CPI change. I then used Power BI and DAX to create dynamic KPIs and a three-page dashboard covering overall CPI trends, rural versus urban analysis, and inflation movements. One key finding was that Combined CPI increased approximately 6.17% between January 2025 and July 2026, while rural inflation was 0.88 percentage points higher than urban inflation in July 2026.
-
 ## 20. Project Status
 
 **Completed — Beginner Data Analytics Portfolio Project**
