@@ -172,11 +172,10 @@ screenshots/rural_urban.png
 screenshots/inflation_analysis.png
 ```
 
-Example:
-
-```markdown
 ![CPI Overview](screenshots/overview.png)
-```
+![Rural vs Urban Analysis](screenshots/rural_urban.png)
+![Inflation Analysis](screenshots/inflation_analysis.png)
+
 
 ## 12. Tools & Technologies
 
