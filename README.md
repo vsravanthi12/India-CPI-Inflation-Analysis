@@ -1,6 +1,13 @@
 # India CPI & Inflation Analysis Dashboard
 
 > A Data Analytics portfolio project using Government of India Consumer Price Index (CPI) and inflation data, Excel, Power BI, and DAX.
+## 🚀 Live Dashboard
+
+👉 **[Open Interactive Dashboard](https://india-cpi-inflation-analysis-jawwrnpoephmsoip9t6nfg.streamlit.app/)**
+
+## 📊 Dashboard Preview
+
+![Overview](screenshots/overview.png)
 
 **Tools:** Excel · Power BI · DAX  
 **Project type:** Exploratory Data Analysis & Business Intelligence  
